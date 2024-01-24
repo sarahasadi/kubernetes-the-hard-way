@@ -6,7 +6,7 @@ In this lab is the process of preparing a machine requirements necessary for ins
 The follow table list the ten machines and thier CPU, memory, and storage requirements.
 | Name |  Description | Hostname |	IP	|
 | :-------------: | :-------------: | :-------------: | :-------------: | 
-| jumpbox | Administration host |  |  | 
+| jumpbox | Bastion Host |  |  | 
 | ETCD-0 | Kubernetes ectd node |  |  | 
 | ETCD-1 | Kubernetes ectd node |  |  | 
 | ETCD-2 | Kubernetes ectd node |  |  |
